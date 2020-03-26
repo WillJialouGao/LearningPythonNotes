@@ -1,2 +1,2 @@
-# LearningPythonNotes
-The notes that I made during learning python
+# Python 学习笔记
+基本语法，数据类型及其自带函数，附加一些数值计算的练习。
